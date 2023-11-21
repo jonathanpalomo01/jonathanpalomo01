@@ -1,6 +1,6 @@
 # 🚀 Jonathan Palomo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/jpalomo2001/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanPalomo-blue)](https://www.linkedin.com/in/jpalomo2001/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://jonathanpalomo.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
 
 

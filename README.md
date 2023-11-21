@@ -1,7 +1,7 @@
 # 🚀 Jonathan Palomo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanPalomo-blue)](https://www.linkedin.com/in/jpalomo2001/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://jonathanpalomo.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Jon'sBaseballCorner-green)](https://jonathanpalomo.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
 
 
 🤖 Data Scientist and Analyst | Machine Learning, Computer Vision, and NLP Enthusiast
